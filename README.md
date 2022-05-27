@@ -15,8 +15,9 @@
 Welcome onboard fellow developer/ designer, this is where you will upload your additions to our website.
 
 What was your motivation?
+"To help solve a problem in a growing school as well as gain some experience on Github." ~ Balofire
 
-Why did you build this project?
+Why did you build this project? 
 
 What problem does it solve?
 
